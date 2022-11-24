@@ -36,7 +36,7 @@
     "@typescript-eslint/eslint-plugin": "^5.44.0",
     "@typescript-eslint/parser": "^5.44.0",
     "eslint": "^8.28.0",
-    "extra-workflow": "^0.3.0",
+    "extra-workflow": "^0.4.0",
     "husky": "4",
     "jest": "^29.3.1",
     "npm-run-all": "^4.1.5",
@@ -51,6 +51,6 @@
     "@blackglory/prelude": "^0.1.8"
   },
   "peerDependencies": {
-    "extra-workflow": "^0.3.0"
+    "extra-workflow": "^0.3.0 || ^0.4.0"
   }
 }
