@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/extra-workflow/memory-store/compare/v0.1.1...v0.1.2) (2023-06-11)
+
+
+### Bug Fixes
+
+* export src ([1357ea4](https://github.com/extra-workflow/memory-store/commit/1357ea4b6fb14e20d91d7ae98537596f3eab7ac3))
+
 ### [0.1.1](https://github.com/extra-workflow/memory-store/compare/v0.1.0...v0.1.1) (2022-11-24)
 
 ## 0.1.0 (2022-11-22)
