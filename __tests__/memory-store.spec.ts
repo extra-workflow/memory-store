@@ -1,4 +1,5 @@
-import { MemoryStore } from '@src/memory-store'
+import { describe, test, expect } from 'vitest'
+import { MemoryStore } from '@src/memory-store.js'
 import { IRecord } from 'extra-workflow'
 
 describe('MemoryStore', () => {
